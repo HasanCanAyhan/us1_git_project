@@ -6,4 +6,6 @@ public class CreditClass {
 
     // some work here
 
+    // completed
+
 }
